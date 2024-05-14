@@ -20,6 +20,10 @@ button.touchAreaInsets = UIEdgesInsets(top: 20, left: 20, bottom: 20, right: 20)
 pod 'TouchAreaInsets'
 ```
 
+```
+.package(url: "https://github.com/lookpin/FlexLayout.git")
+```
+
 ## License
 
 TouchAreaInsets is under MIT license. See the [LICENSE](LICENSE) file for more info.
